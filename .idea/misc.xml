@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25277777777777777" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/background_login.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/button_background.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_baseline_article_24.xml" value="0.1" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_book.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_call.xml" value="0.11736111111111111" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_coin.xml" value="0.11736111111111111" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_dapur.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25277777777777777" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.25277777777777777" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_mall.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_menu.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_user.xml" value="0.17094594594594595" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/ic_wallet.xml" value="0.10337837837837838" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/indicator_circle.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/drawable/layout_background.xml" value="0.14166666666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_akun.xml" value="0.12" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_intro.xml" value="0.11200000000000002" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_reset_password.xml" value="0.1445945945945946" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_setting.xml" value="0.12604166666666666" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/fragment_banner_slider.xml" value="0.13958333333333334" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_akun.xml" value="0.128" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_banner.xml" value="0.2" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_kategori.xml" value="0.1" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_search.xml" value="0.16578947368421051" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_toolbar.xml" value="0.176" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_toolbar_bg.xml" value="0.1451505016722408" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/layout/layout_toolbar_left.xml" value="0.15033783783783783" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/menu/menu_bawah.xml" value="0.1" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15506756756756757" />
+        <entry key="..\:/ROSITA/JUICY/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

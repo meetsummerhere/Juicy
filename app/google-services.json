@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802770437846",
+    "firebase_url": "https://juicy-3a2cd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "juicy-3a2cd",
+    "storage_bucket": "juicy-3a2cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802770437846:android:e3bd752702c1bd609deb77",
+        "android_client_info": {
+          "package_name": "com.doc.juicy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802770437846-qd6u98r19o0asvk1ejo7te2k9sp5av87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doc.juicy",
+            "certificate_hash": "03ad74a368212877e3f6408a94c6ba0043317dcf"
+          }
+        },
+        {
+          "client_id": "802770437846-phm677o82fkhho94immccdpnrq297jct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2qFvnpLD3i3D-E9RLRlZS7-XPWRZLbZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802770437846-phm677o82fkhho94immccdpnrq297jct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
